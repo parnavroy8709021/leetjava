@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/parnavroy8709021/leetjava/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/parnavroy8709021/leetjava/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/parnavroy8709021/leetjava/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parnavroy8709021/leetjava/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0912-sort-an-array](https://github.com/parnavroy8709021/leetjava/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/parnavroy8709021/leetjava/tree/master/1470-shuffle-the-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/parnavroy8709021/leetjava/tree/master/0075-sort-colors) |
 | [0912-sort-an-array](https://github.com/parnavroy8709021/leetjava/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -61,4 +63,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/parnavroy8709021/leetjava/tree/master/0933-number-of-recent-calls) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/parnavroy8709021/leetjava/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/parnavroy8709021/leetjava/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/parnavroy8709021/leetjava/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
